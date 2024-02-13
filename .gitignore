@@ -1,0 +1,4 @@
+target
+.flatpak-builder
+_build
+NOTES.txt

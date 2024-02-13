@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=rustimer
+Exec=rustimer
+Icon=com.jmrepetti.rustimer
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

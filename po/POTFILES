@@ -1,0 +1,4 @@
+data/com.jmrepetti.rustimer.desktop.in
+data/com.jmrepetti.rustimer.metainfo.xml.in
+data/com.jmrepetti.rustimer.gschema.xml
+src/window.ui
